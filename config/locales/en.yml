@@ -21,7 +21,7 @@
 
 en:
   admin:
-    api_location: 'San Mateo County'
+    api_location: 'Washington, D.C.'
     not_authorized: 'You are not authorized to perform this action.'
 
   enumerize:
@@ -74,6 +74,6 @@ en:
 
 
   titles:
-    brand: "Ohana API"
+    brand: "DC Connect"
     admin: "%{brand} Admin"
     developer: "%{brand} Developers"
